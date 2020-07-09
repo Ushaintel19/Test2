@@ -1,0 +1,7 @@
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\obj\Debug\HelloWorld_Lesson1.csprojAssemblyReference.cache
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\obj\Debug\HelloWorld_Lesson1.csproj.CoreCompileInputs.cache
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\bin\Debug\HelloWorld_Lesson1.exe.config
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\bin\Debug\HelloWorld_Lesson1.exe
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\bin\Debug\HelloWorld_Lesson1.pdb
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\obj\Debug\HelloWorld_Lesson1.exe
+c:\users\usha.sony-naveen-pc\source\repos\HelloWorld_Lesson1\HelloWorld_Lesson1\obj\Debug\HelloWorld_Lesson1.pdb
